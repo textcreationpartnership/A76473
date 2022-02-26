@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good nevves from Ireland: being a perfect relation of the late great overthrow given to the rebels, by the forces of Vlster, under the command of Col. Conoway, and Lieut. Col. Oconally: with the manner of their routing and defeating them in the counties of Cavon, Monakon, Louth, and Westmeath; taking 1200. cowes, 400. horse, 1000. sheep, with all their arms and ammunition. Also, their surprizing of all the magazine and provisions, that were prepared for Generall Preston, and Owen Macharts armies at the siege against Dublin. Together with the Lord Inchiquins taking the field with 5000. horse and foot. And the raising of the siege at Dublin. Certified by severall letters, Novemb. 13. 1646.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76473</idno>
+            <idno type="STC">Wing B208</idno>
+            <idno type="STC">Thomason E363_12</idno>
+            <idno type="STC">ESTC R201233</idno>
+            <idno type="EEBO-CITATION">99861764</idno>
+            <idno type="PROQUEST">99861764</idno>
+            <idno type="VID">160057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E363[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good nevves from Ireland: being a perfect relation of the late great overthrow given to the rebels, by the forces of Vlster, under the command of Col. Conoway, and Lieut. Col. Oconally: with the manner of their routing and defeating them in the counties of Cavon, Monakon, Louth, and Westmeath; taking 1200. cowes, 400. horse, 1000. sheep, with all their arms and ammunition. Also, their surprizing of all the magazine and provisions, that were prepared for Generall Preston, and Owen Macharts armies at the siege against Dublin. Together with the Lord Inchiquins taking the field with 5000. horse and foot. And the raising of the siege at Dublin. Certified by severall letters, Novemb. 13. 1646.</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Woodnoth, and are tobe [sic] sold at his shop at the signe of the Starre in Cornwall,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes to: W.B.</note>
+                  <note>Annotation on Thomason copy: "printed ye 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160057:1" rendition="simple:additions"/>
+            <p>Exceeding good NEWES FROM IRELAND: BEING A perfect RELATION of the late great Over<g ref="char:EOLhyphen"/>throw given to the Rebels, by the Forces of <hi>Vlſter,</hi> under the Command of Col. <hi>Conoway,</hi> and Lieut. Col. <hi>Oconally:</hi> With the manner of their routing and defeating them in the Counties of <hi>Cavon, Monakon, Louth,</hi> and <hi>Weſtmeath;</hi> taking 1200. Cowes, 400. Horſe, 1000. Sheep, with all their Arms and Ammunition.</p>
+            <p>Alſo, their ſurprizing of all the Magazine and Proviſions, that were prepared for Generall <hi>Preſton,</hi> and <hi>Owen Macharts</hi> Armies at the Siege againſt DUBLIN.</p>
+            <p>Together with the Lord Inchiquins taking the Field with 5000. Horſe and Foot. And the raiſing of the Siege at DUBLIN.</p>
+            <p>
+               <hi>Certified by ſeverall Letters, Novemb.</hi> 13. 1646.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Woodnoth,</hi> and are to be ſold at his ſhop at the Signe of the Starre in <hi>Cornwall,</hi> 1646</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:160057:2"/>
+            <pb n="1" facs="tcp:160057:2"/>
+            <head>Exceeding good Newes FROM <hi>IRELAND.</hi>
+            </head>
+            <p>THE vigilant endeavours, and in<g ref="char:EOLhyphen"/>expreſſable care and induſtrious paines of theſe under-named Wor<g ref="char:EOLhyphen"/>thies, and ever renowned Patriots of their Country, hath not been wanting in the Province of Vlſter, ſince the time of their recei<g ref="char:EOLhyphen"/>ving the Great Truſt repoſed in them (by the Parliament of England,) but with all faithful<g ref="char:EOLhyphen"/>neſſe<g ref="char:punc">▪</g> active ſpirits, and undanted hearts hath endeavoured the preſervation of that Country,
+<pb n="2" facs="tcp:160057:3"/> and hath ſought by all meanes poſſible the ad<g ref="char:EOLhyphen"/>vancing of the Proteſtant party, and the utter extirpation of the Popiſh; and to that end hath been very active againſt the blood-thirſty and barbarous Rebels; as will appear by this enſu<g ref="char:EOLhyphen"/>ing Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ON Thurſday the 27 of October, 1646. <hi>Arthur Anſlo</hi> Eſquire, Sonne and Heire to the right ho<g ref="char:EOLhyphen"/>nourable, <hi>Francis</hi> Lord <hi>Mountnorris,</hi> Viſcount <hi>Valentia,</hi> and Collonel <hi>William Beal</hi> of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> being Commiſſioners for the <hi>Parliament</hi> in <hi>Ulſter,</hi> ſent out a Party (reſolute and gallantly armed) conſiſt<g ref="char:EOLhyphen"/>ing of ſeven hundred Horſe and Dragoones of the Brit<g ref="char:EOLhyphen"/>tiſh Army, under the command of Collonel <hi>Edward Conoway,</hi> Son to the Lord Vicount <hi>Conoway,</hi> accompani<g ref="char:EOLhyphen"/>ed with Lieutenant Colonell <hi>Oconally,</hi> and other Offi<g ref="char:EOLhyphen"/>cers, who marched out on Tueſday the ſeven and twen<g ref="char:EOLhyphen"/>tieth of October, 1646. from <hi>Liſuegarner,</hi> with intenti<g ref="char:EOLhyphen"/>on to divert the Rebels from <hi>Dublin,</hi> and to ſpoyl <hi>Owen Macharts</hi> Quarters while hee was attending that City; they continued abroad almoſt fourteen dayes, burning and ſpoyling the Counties of <hi>Cavon, Monakan, Louth,</hi> and <hi>Weſtmeath,</hi> with ſo good ſucceſſe, that the Corne they burned could not be valued at leſſe then fifty thouſand
+<pb n="3" facs="tcp:160057:3"/> pounds, and many Townes and Villages were burned that had not taſted of this Rebellion.</p>
+                  <p>Severall Magazines of proviſions for <hi>Owen Macharts</hi> Army was ſurpriſed, and burnt by them; and at length they returned with a prey of twelve hundred Cowes, four hundred horſe, one thouſand ſheep, and as much of other plunder as they could carry, and were forced to leave much behind them of all ſorts, for want of drivers for the Cattell and Carriage horſes to bring away their ſpoyle, being fain to give ſome of the Rebels their lives to aſſiſt them to bring away what they did.</p>
+                  <p>They had the better opportunity to do this good ſer<g ref="char:EOLhyphen"/>vice, by reaſon that <hi>Owen Machart</hi> had perſwaded the Inhabitants, that they had made a Ceſſation with the Parliaments Forces in <hi>Vlſter,</hi> which the cillie people were ſo confident of, that when they perceived their ap<g ref="char:EOLhyphen"/>proach in a hoſtile manner, they betook themſelves to their hills and bogs, and there rayled, as treacherous breakers of the Ceſſation till our men ſatisfied them of their deluſion, <hi>Owen-Machart</hi> prevailed ſo farre upon this deceitfull aſſurance of a Ceſſation that almoſt all the fighting men were marched with him to <hi>Dublin,</hi> ſo that our forces could have no great ſlaughter of them, killing onely about forty men.</p>
+                  <p>Amongſt other places, <hi>Carick Mac-Roſo</hi> was burned and the Rebels ſtrong Workes there quitted: As alſo, ſe<g ref="char:EOLhyphen"/>verall other places very defenſible; which our Forces being onely horſe, were not in condition to garriſon, but they demoliſhed their Workes, and quite diſabled the Enemy of bearing any armes.</p>
+                  <p>There was one Scottiſh woman returned with our men, who had continued with the Rebels from the be<g ref="char:EOLhyphen"/>gining,
+<pb n="4" facs="tcp:160057:4"/> and could not have opportunity to come from them.</p>
+                  <p>Thus it hath pleaſed the great God of Heaven, ſo to bleſſe and proſper the endeavours and undertakings of the Worthies of <hi>England</hi> (the High and Honourable Court of Parliament) that by their vigilant care, and unwearied pains, in ſeeking the preſeruation of that poor diſtreſſed, and bleeding Kingdome of <hi>Ireland,</hi> by taking care, and ſending over, ſome eminent and faithfull Pa<g ref="char:EOLhyphen"/>triots of their Country (who by the aſſiſtance of the Al<g ref="char:EOLhyphen"/>mighty) have beene Inſtruments of clearing ſeverall Counties in that Kingdome, and taken in many of the Rebels ſtrong Garriſons and Holds; ſo that for a great diſtance, the Rebels have but very little ſhelter.</p>
+                  <p>Theſe Worthies having ſpent theſe foureteen months as Commiſſioners in ordering the Armies in <hi>Ireland,</hi> are returned ſafe to <hi>London</hi> on Tueſday the three and twentieth of November 1646. with this glad newes, and aſſuring the Parliament that there was no great doubt of <hi>Dublin,</hi> they being in a good condition to re<g ref="char:EOLhyphen"/>ſiſt the enemy, their workes being finiſhed, and ex<g ref="char:EOLhyphen"/>pecting dayly forces from <hi>England,</hi> and the enemy, <hi>Owen, Machant</hi> and Generall <hi>Preſton</hi> being not very u<g ref="char:EOLhyphen"/>nanimous in their deſignes. It is ſaid that the Lord <hi>Digby</hi> endeavouring to revenge himſelfe of the Rebels, by di<g ref="char:EOLhyphen"/>viding the old <hi>Engliſh</hi> and <hi>Iriſh</hi> was hunted after by the Popes Nuntio, who vowed his death, whereupon diſ<g ref="char:EOLhyphen"/>guiſing himſelfe, he was forced to lurke from place to place, and unleſſe he had eſcaped ſafe to the Earle of <hi>Clenrickard,</hi> it is not knowne what is become of him.</p>
+                  <p>Sir <hi>Charles Coote</hi> the Lord preſident of <hi>Conath</hi> is re<g ref="char:EOLhyphen"/>turned out of <hi>Viſter</hi> to <hi>Conath</hi> with his Horſe, and will
+<pb n="5" facs="tcp:160057:4"/> ſpeedily fall upon the Rebels in wonted manner, but is ſo ſcanted of proviſions for his men, that without ſpee<g ref="char:EOLhyphen"/>dy and plentifull reliefe, there will be ſuddenly an end both of his Service and Army.</p>
+                  <p>Thus having acquainted you with the remarkableſt paſſages that hath happened theſe many weekes, I hum<g ref="char:EOLhyphen"/>bly take my leave, and remain</p>
+                  <closer>
+                     <signed>Your ever true and faithfull friend, E. G.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>But to proceed a little further, and to give you a hint of the victorious, and gallant atchievements, of the e<g ref="char:EOLhyphen"/>ver renowned and undanted Generall, the Lord Inchi<g ref="char:EOLhyphen"/>quin, which for your better ſatisfaction, I ſhall here in<g ref="char:EOLhyphen"/>ſert, as followeth:</p>
+            <p>By letters from Corke in Ireland, it is alſo certified, that the Lord Inchiqueene hath lately muſtered his for<g ref="char:EOLhyphen"/>ces, both horſe and foote which doth conſiſt of 5000. in number, moſt of them being old Souldiers, and gal<g ref="char:EOLhyphen"/>lantly armed, are now marched towards the Re<g ref="char:EOLhyphen"/>bels quarters and Gariſons: they march in two ſeve<g ref="char:EOLhyphen"/>rall bodies, but at no great diſtance, and coming neere to one of the Rebels Gariſons, a place of great ſtrength, the Generall gave command, that a party of horſe and foote ſhould be drawn forth, to advance nearer to that Gariſon for the ſudden ſurpriſall of the enemy, if any were in the adjacent Townes; Whereupon they ad<g ref="char:EOLhyphen"/>vanced, and drawing neere to the place, met with ſome oppoſition, of the Rebels, where they began a hot en<g ref="char:EOLhyphen"/>counter,
+<pb n="6" facs="tcp:160057:5"/> but being overpowred by the Rebels, the Pro<g ref="char:EOLhyphen"/>teſtants were forced to retreat, the Rebels purſuing them; but immediately the whole body came on, and fell violently upon the enemy, killing a great number and put the reſt to flight, and purſued them to their Ga<g ref="char:EOLhyphen"/>riſon, where the Rebels had much Corne and proviſi<g ref="char:EOLhyphen"/>on together with great ſtore of Ammunition; and with<g ref="char:EOLhyphen"/>in few houres, they fired all their Corne and Ammuni<g ref="char:EOLhyphen"/>tion, with Granadoes, doing great execution upon the Rebels within the Caſtle.</p>
+            <p>Whereupon Generall Preſton, and Oneale, preſent<g ref="char:EOLhyphen"/>ly called a Councel of warre, and there concluded, that all the forces, both horſe and foote, that were at the Siege of Dublin, ſhould preſently be commanded to draw off, and to reſide and keepe their head quarters within 18. miles of the ſaid City, where as yet they re<g ref="char:EOLhyphen"/>maine.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
